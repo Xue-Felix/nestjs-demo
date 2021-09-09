@@ -1,8 +1,8 @@
 <!--
  * @Author: your name
  * @Date: 2021-09-07 22:42:45
- * @LastEditTime: 2021-09-08 14:02:48
- * @LastEditors: your name
+ * @LastEditTime: 2021-09-08 14:46:53
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /nestjs-demo/README.md
 -->
@@ -34,7 +34,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+此项目是使用[Nest](https://github.com/nestjs/nest) 框架的练习项目
 
 ## Installation
 
